@@ -1,1 +1,2 @@
-worker: python b.py
+worker: python3 b.py
+
